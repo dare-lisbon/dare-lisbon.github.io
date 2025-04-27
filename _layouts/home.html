@@ -1,0 +1,150 @@
+{% include partials/header.html %}
+
+<div class="row">
+  <div class="col">
+    {% include partials/banner.html %}
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm-8">
+    {{ content }}
+
+    {% if site.conference.main.links %}
+    <div class="lead d-print-none">
+      {% assign btn_default = 'btn btn-outline-primary btn-sm mt-2 ml-1' %}
+      {% for link in site.conference.main.links %}
+
+      {% if link.menu %}
+      <div class="dropdown d-inline">
+        <a class="{{ btn_default }} dropdown-toggle" href="#" role="button" id="main-dropdown{{ forloop.index0 }}"
+          data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          {{ link.name }}
+        </a>
+        <div class="dropdown-menu" aria-labelledby="main-dropdown{{ forloop.index0 }}">
+          {% assign parent_link = link %}
+          {% for link in parent_link.menu %}
+          {% assign link_styleclass = "dropdown-item" %}
+          {% include partials/get_link.html %}
+          {{ link_tag }}
+          {{ link.name }}
+          </a>
+          {% endfor %}
+        </div>
+      </div>
+
+      {% elsif link.live %}
+      {%- include partials/get_live_timestamps.html -%}
+
+      {%- if link.name -%}
+      {%- assign link_name = link.name -%}
+      {%- else -%}
+      {%- assign link_name = site.data.lang[site.conference.lang].live.stream | default: "Live Stream" -%}
+      {%- endif -%}
+
+      {%- if link.name_inactive -%}
+      <span class="live-hide {{ btn_default }} disabled" data-start="{{ live_starts }}" data-end="{{ live_ends }}">
+        {{ link.name_inactive }}
+      </span>
+      {%- endif -%}
+
+      <span class="live-show d-none" data-start="{{ live_starts }}" data-end="{{ live_ends }}">
+        {% if site.conference.live.streaming %}
+        <a class="{{ btn_default }}" title="{{ link_name }}" data-toggle="modal" data-target="#stream-modal"
+          data-room="" href="#">
+          {% else %}
+          {% assign link_styleclass = "{{ btn_default }}" %}
+          {% include partials/get_link.html %}
+          {{ link_tag }}
+          {% endif %}
+
+          {{ link_name }}
+        </a>
+      </span>
+
+      {% else %}
+      {% assign link_styleclass = btn_default %}
+      {% include partials/get_link.html %}
+      {{ link_tag }}
+      {{ link.name }}
+      </a>
+      {% endif %}
+      {% endfor %}
+      </p>
+      </div>
+      {% endif %}
+  </div>
+
+  <div class="col-sm-4">
+    <br>
+
+    <div class="list-group">
+      <div class="list-group-item list-group-item-success">
+        Application form
+      </div>
+      <a class="list-group-item list-group-item-action"
+        href="https://tuda-dare24.hotcrp.com/">
+        https://tuda-dare24.hotcrp.com/
+      </a>
+    </div>
+    <br>
+
+
+    <div class="list-group">
+      <div class="list-group-item list-group-item-success">
+        Contact
+      </div>
+      <a class="list-group-item list-group-item-action"
+        href="mailto: mogk@cs.tu-darmstadt.de?subject=[DARE24]: First Summer School on Distributed and Replicated Environments">
+        mogk@cs.tu-darmstadt.de
+      </a>
+    </div>
+    <br>
+<!--     <div class="list-group">
+      <div class="list-group-item list-group-item-success">
+        <span>Sponsors</span>
+      </div>
+
+      <a href="https://electric-sql.com" target="_blank" class="list-group-item list-group-item-action">
+        <div class="d-flex w-100 justify-content-center">
+          <img src="{{ site.baseurl }}/assets/images/sponsor/ElectricSQL-logo.png" style="width: 70%" alt="ElectricSQL">
+        </div>
+      </a>
+    </div>
+    <br> -->
+    <div class="list-group">
+      <div class="list-group-item list-group-item-success">
+        Supporters
+      </div>
+      <a href="https://erasmus-plus.ec.europa.eu/" target="_blank" class="list-group-item list-group-item-action">
+        <div class="d-flex w-100 justify-content-center">
+          <img src="{{ site.baseurl }}/assets/images/sponsor/EU.jpg" style=" width: 70%"
+            alt="EU">
+        </div>
+      </a>
+
+      <a href="https://proloewe.de/" target="_blank" class="list-group-item list-group-item-action">
+        <div class="d-flex w-100 justify-content-center">
+          <img src="{{ site.baseurl }}/assets/images/sponsor/LOEWE.png" style=" width: 70%"
+            alt="LOEWE">
+        </div>
+      </a>
+      <a href="https://www.emergencity.de/" target="_blank" class="list-group-item list-group-item-action">
+        <div class="d-flex w-100 justify-content-center">
+          <img src="{{ site.baseurl }}/assets/images/sponsor/emergenCITY_Logo_Horizontal_Color.png" style=" width: 60%"
+            alt="emergencity">
+        </div>
+      </a>
+
+      <a href="https://europe.acm.org/" target="_blank" class="list-group-item list-group-item-action">
+        <div class="d-flex w-100 justify-content-center">
+          <img src="{{ site.baseurl }}/assets/images/sponsor/acm_logo_tablet.svg" style=" width: 70%"
+            alt="ACM Europe">
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+</div>
+
+{% include partials/footer.html %}
