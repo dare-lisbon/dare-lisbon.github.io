@@ -13,20 +13,17 @@ Accepted participants eligible for an Erasmus+ grant will need to then register 
 ### How much does it cost?
 Students awarded with an Erasmus+ grant do not need to pay a registration fee (only accommodation if opted in).
 
-Students from partner universities are eligible for an Erasmus+ mobility grant to cover their expenses, this explicitly includes NOVA University of Lisbon, and University of Porto, Vrije Universiteit Brussel, but also check with your local university if they have – or are willing to enter – an Erasmus+ BIP agreement with TU Darmstadt.
+Students from partner universities are eligible for an Erasmus+ mobility grant to cover their expenses, this explicitly includes Vrije Universiteit Brussel, Technische Universität Darmstadt, and University of Kaiserslautern-Landau, but also check with your local university if they have – or are willing to enter – an Erasmus+ BIP agreement with NOVA University Lisbon.
 
 For Students without an Erasmus+ grant: Thanks to our sponsors, we are able to offer the summer school itself free of charge.
 
-We have pre-reserved hotel rooms that cost 353,25€ per room, (so 177€ per person when sharing the 2-person hotel rooms).
+We have setteing pre-reserved hotel rooms and prices will be available soon.
 
 
 
 
 ## Venue
 
-DARE 2024 will be hosted by the [Technical University Darmstadt, Germany](https://www.tu-darmstadt.de/).
+DARE 2025 will be hosted by the [NOVA University Lisbon, Portugal](https://www.unl.pt/en/).
 
-Darmstadt is easy to reach via plane, travel to Frankfurt Airpoprt (FRA) and then take the [Airliner](https://www.heagmobibus.de/de/airliner) to Darmstadt Luisenplatz (this is a direct connection from the Airport to the city center).
-
-Alternatively, Darmstadt is also well-connected via train, often via Frankfurt Hauptbahnhof then connecting to Darmstadt Hauptbahnhof.
 
