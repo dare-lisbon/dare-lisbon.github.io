@@ -12,7 +12,7 @@ layout: home
   <tbody>
     <tr>
       <td>Application deadline</td>
-      <td><06 June 2025</td>
+      <td>06 June 2025</td>
     </tr>
     <tr>
       <td>Application notification</td>
