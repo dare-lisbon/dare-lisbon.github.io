@@ -2,7 +2,7 @@
 layout: home
 ---
 
-## Organization of DARE 2023
+## Organization of DARE 2025
 
 <hr>
 
