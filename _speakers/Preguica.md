@@ -1,6 +1,6 @@
 ---
 name: Nuno 
-first_name: Nuno Preguiça           
+first_name: Nuno           
 last_name: Preguiça
 title: Prof.
 affiliation: NOVA University Lisbon
