@@ -14,7 +14,7 @@ Accepted participants eligible for an Erasmus+ grant will need to then register 
 
 * Students awarded with an Erasmus+ grant do not need to pay a registration fee (only accommodation if opted in).
 
-* Students from partner universities are eligible for an Erasmus+ mobility grant to cover their expenses, this explicitly includes Vrije Universiteit Brussel, Technische Universität Darmstadt, and University of Kaiserslautern-Landau, but also check with your local university if they have – or are willing to enter – an Erasmus+ BIP agreement with TU Darmstadt.
+* Students from partner universities are eligible for an Erasmus+ mobility grant to cover their expenses, this explicitly includes Vrije Universiteit Brussel, Technische Universität Darmstadt, and University of Kaiserslautern-Landau, but also check with your local university if they have – or are willing to enter – an Erasmus+ BIP agreement with NOVA University lisbon.
   
 * For Students without an Erasmus+ grant, the registration fee is €400. 
 
