@@ -1,10 +1,10 @@
 title: DARE 2024
 description: >-
   Second ACM Europe Summer School on <br>
-  Distributed and Replicated Environments (DARE 2024)
-subdescription: "From 9 to 13 September | Darmstadt | Germany"
+  Distributed and Replicated Environments (DARE 2025)
+subdescription: "From 8 to 12 September | Lisbon | Portugal"
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://dare-summer.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://dare-lisbon.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 
 theme: jekyll-theme-conference
 
