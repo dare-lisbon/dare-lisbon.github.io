@@ -108,7 +108,9 @@ conference:
           # - name: 2025 (current)
           #   disabled: true
           - name: 2024
-            absolute_url: https://soft.vub.ac.be/dare24/
+            absolute_url: https://dare-summer.github.io/
+          - name: 2023
+            absolute_url: https://soft.vub.ac.be/dare23/
       #     - name: 2018
       #       relative_url: /2018/
 
