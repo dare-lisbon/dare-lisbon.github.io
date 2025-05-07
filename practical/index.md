@@ -5,16 +5,16 @@ layout: home
 ### Target Audience
 
 - Targeted to master and PhD students in Computer Science
-- Blended programme with one in-person week at VUB
+- Blended programme with one in-person week at NOVA University Lisbon
 - Credits: 3 ECTS
 
 ### Who can attend?
 
-DARE 2023 is aimed at researchers, master’s and Ph.D. students working in the field of distributed systems and programming languages. An undergraduate concurrency and distributed systems course is all the background needed.
+DARE 2025 is aimed at researchers, master’s and Ph.D. students working in the field of distributed systems and programming languages. An undergraduate concurrency and distributed systems course is all the background needed.
 
-Students from NOVA University of Lisbon, TU Munich, and University of Porto are eligible for an Erasmus+ mobility grant to cover their expenses. Contact the organizers of each university (listed at the end of this page) for further information.
+Students from Vrije Universiteit Brussel, Technische Universität Darmstadt, and University of Kaiserslautern-Landau are eligible for an Erasmus+ mobility grant to cover their expenses. Contact the organizers of each university (listed at the end of this page) for further information.
 
-Students from a partner university may also be eligible for a similar grant (an overview of the partner universities is available [here](https://www.vub.be/en/studying-vub/all-study-programmesvub/personal-development-during-your-studies/studying-abroad/eu-destinations-erasmusexchange/exchange-outgoing-in-computer-science-vub#paragraph-83432) ). Contact us for further information.
+Students from a partner university may also be eligible for a similar grant. Contact us for further information.
 
 
 ### When does DARE 2023 start and end?
