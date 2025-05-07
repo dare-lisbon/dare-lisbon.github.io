@@ -4,10 +4,6 @@ layout: home
 
 ## Important dates
 
-<hr>
-
-<h3> Additional Funding Extended Timeline </h3>
-
 <table class="table table-hover table-sm">
   <tbody>
     <tr>
