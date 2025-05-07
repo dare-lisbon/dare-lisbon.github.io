@@ -18,7 +18,7 @@ Accepted participants eligible for an Erasmus+ grant will need to then register 
   
 * For Students without an Erasmus+ grant, the registration fee is €400. 
 
-All registration fees will include lunches and coffee breaks, welcome and poster receptions, a group dinner, materials, and other activities,
+All registration fees will include lunches and coffee breaks, welcome and poster receptions, a group dinner, materials, and other activities.
 
 Information about **accommodation** will be available soon.
 
