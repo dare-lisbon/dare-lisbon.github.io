@@ -17,15 +17,15 @@ Students from Vrije Universiteit Brussel, Technische Universität Darmstadt, and
 Students from a partner university may also be eligible for a similar grant. Contact us for further information.
 
 
-### When does DARE 2023 start and end?
+### When does DARE 2025 start and end?
 
-DARE 2023 is organized as a blended learning experience. Students will first meet online in August 2023 for an introductory session before the in-person week at Vrije Universiteit Brussel (VUB) from Monday 11th September 2023 to Friday 15th, September 2023. After the in-person week, the Summer School will have a closing session later in September 2023. The evaluation consists of a small research project determined during the in-person week, which needs to be orally defended during the closing session.
+DARE 2025 is organized as a blended learning experience. Students will first meet online in August 2025 for an introductory session before the in-person week at NOVA University Lisbon (NOVA) from Monday 8th September 2025 to Friday 12th, September 2025. After the in-person week, the Summer School will have a closing session later in October 2025. The evaluation consists of a small research project determined during the in-person week, which needs to be orally defended during the closing session.
 
-Upon successful completion of the DARE 2023 Summer School (3 ECTS), VUB will issue a transcript of records. Students participating under the Erasmus+ program can receive recognition of the 3 ECTS according to the conditions outlined in their learning agreement. Self-funded participants can verify recognition options with their home university.
+Upon successful completion of the DARE 2025 Summer School (3 ECTS), NOVA will issue a transcript of records. Students participating under the Erasmus+ program can receive recognition of the 3 ECTS according to the conditions outlined in their learning agreement. Self-funded participants can verify recognition options with their home university.
 
 ### Program
 
-DARE 2023 focuses on techniques for supporting highly available distributed systems. The school combines theory and practice. Through lectures by active researchers in the field, students will get acquainted with state-of-the-art techniques and the latest research advances. Moreover, in hands-on sessions, students can also develop and experiment with existing frameworks.
+DARE 2025 focuses on techniques for supporting highly available distributed systems. The school combines theory and practice. Through lectures by active researchers in the field, students will get acquainted with state-of-the-art techniques and the latest research advances. Moreover, in hands-on sessions, students can also develop and experiment with existing frameworks.
 
 The prospective topics to be covered in this edition include:
 
