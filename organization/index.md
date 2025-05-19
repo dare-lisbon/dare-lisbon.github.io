@@ -9,7 +9,8 @@ layout: home
 - Carla Ferreira, NOVA University of Lisbon, Portugal
 - Carlos Baquero, University of Porto, Portugal
 - Elisa Gonzalez Boix, Vrije Universiteit Brussel, Belgium
-- Annette Bieniusa, Technical University of Kaiserslautern, Germany
+- Annette Bieniusa, University of Kaiserslautern-Landau, Germany
 - Ragnar Mogk, Technische Universität Darmstadt, Germany
+- Alceste Scalas, Technical University of Denmark, Denmark 
 <!-- - Annette Bieniusa, Technical University of Kaiserslautern, Germany  -->
 <!-- - Martin Kleppmann, Technical University of Munich, Germany   -->
