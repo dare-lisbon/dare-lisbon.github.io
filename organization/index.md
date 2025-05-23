@@ -7,7 +7,6 @@ layout: home
 <hr>
 
 - Carla Ferreira, NOVA University of Lisbon, Portugal
-- Alceste Scalas, Technical University of Denmark, Denmark
 - Annette Bieniusa, University of Kaiserslautern-Landau, Germany
 - Carlos Baquero, University of Porto, Portugal
 - Elisa Gonzalez Boix, Vrije Universiteit Brussel, Belgium
