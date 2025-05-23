@@ -5,7 +5,6 @@ last_name: Ferreira
 title: Prof.
 affiliation: NOVA University of Lisbon
 country: Portugal
-website: http://www-ctp.di.fct.unl.pt/~cf/
 
 # other properties can be added if needed
 

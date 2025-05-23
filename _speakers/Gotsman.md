@@ -5,7 +5,6 @@ last_name: Gotsman
 title: Prof.
 affiliation: IMDEA Software Institute
 country: Spain
-website: https://software.imdea.org/~gotsman/
 
 # other properties can be added if needed
 

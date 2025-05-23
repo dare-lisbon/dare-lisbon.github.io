@@ -1,11 +1,10 @@
 ---
-name: José Orlando Pereira 
+name: José Orlando Pereira
 first_name: José Orlando
 last_name:  Pereira
 title: Prof.
-affiliation: University of Minho 
+affiliation: University of Minho
 country: Portugal
-website: https://jopereira.github.io/
 
 # other properties can be added if needed
 
