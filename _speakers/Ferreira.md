@@ -1,6 +1,6 @@
---
+---
 name: Carla Ferreira
-first_name: Carla           
+first_name: Carla
 last_name: Ferreira
 title: Prof.
 affiliation: NOVA University of Lisbon

@@ -1,6 +1,6 @@
 ---
 name: Carlos Baquero
-first_name: Carlos           
+first_name: Carlos
 last_name: Baquero
 title: Prof.
 affiliation: Universidade do Porto
