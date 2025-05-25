@@ -24,6 +24,6 @@ Information about **accommodation** will be available soon.
 
 ## Venue
 
-DARE 2025 will be hosted by the [NOVA University Lisbon, Portugal](https://www.unl.pt/en/).
+DARE 2025 will be hosted by the [NOVA School of Science and Technology, Portugal](https://www.fct.unl.pt/en).
 
 
