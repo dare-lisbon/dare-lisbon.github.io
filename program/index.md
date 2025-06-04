@@ -21,4 +21,4 @@ State-of-the-art analytical processing relies on advanced query optimisation and
 
 ### Alexey Gotsman - TBD
 
-
+### Guido Salvanechi - TBD
