@@ -23,14 +23,29 @@ _All rooms are 2-person (breakfast in included) at Costa da Caparica_
 - **Shared room (same gender): € 270 per person**
 
 #### Total Package Costs
+<table>
+  <thead>
+    <tr>
+      <th>Package</th>
+      <th style="text-align:right">Price</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Registration only</td>
+      <td style="text-align:right">€ 400</td>
+    </tr>
+    <tr>
+      <td>Registration + shared room</td>
+      <td style="text-align:right">€ 670</td>
+    </tr>
+  </tbody>
+</table>
 
-| Package                     | Price |
-| ----------------------------| ------|
-| Registration only           | € 400 |
-| Registration + shared room  | € 670 |
-
-> **Registration is free for Erasmus+ students**  
-> *(they pay only € 270 if they choose shared accommodation)*
+<blockquote>
+  <p><strong>Registration is free for Erasmus+ students</strong><br>
+  <em>They pay only € 270 if they choose shared accommodation</em></p>
+</blockquote>
 
 ## Venue
 
