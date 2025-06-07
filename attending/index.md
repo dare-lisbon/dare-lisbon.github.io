@@ -13,10 +13,12 @@ Accepted participants eligible for an Erasmus+ grant will need to then register 
 ### How much does it cost?
 
 #### Registration Fee
+
 - **€ 400**  
   Includes lunches, coffee breaks, receptions, group dinner, course materials, and Lisbon activities.
 
 #### Accommodation  
+
 _All rooms are 2-person (breakfast in included) at Costa da Caparica_  
 - **Shared room (same gender): € 270 per person**
 
