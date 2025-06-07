@@ -12,15 +12,22 @@ Accepted participants eligible for an Erasmus+ grant will need to then register 
 
 ### How much does it cost?
 
-* Students awarded with an Erasmus+ grant do not need to pay a registration fee (only accommodation if opted in).
+#### Registration Fee
+- **€ 400**  
+  Includes lunches, coffee breaks, receptions, group dinner, course materials, and Lisbon activities.
 
-* Students from partner universities are eligible for an Erasmus+ mobility grant to cover their expenses, this explicitly includes Vrije Universiteit Brussel, Technische Universität Darmstadt, and University of Kaiserslautern-Landau, but also check with your local university if they have – or are willing to enter – an Erasmus+ BIP agreement with NOVA University lisbon.
-  
-* For Students without an Erasmus+ grant, the registration fee is €400. 
+#### Accommodation  
+_All rooms are 2-person (breakfast in included) at Costa da Caparica_  
+- **Shared room (same gender): € 270 per person**
 
-All registration fees will include lunches and coffee breaks, welcome and poster receptions, a group dinner, materials, and other activities.
+#### Total Package Costs  
+| Package                    | Price  |
+|----------------------------|--------|
+| Registration only          | € 400  |
+| Registration + shared room | € 670  |
 
-Information about **accommodation** will be available soon.
+> **Registration is free for Erasmus+ students**  
+> (they pay only € 270 if they choose shared accommodation)
 
 ## Venue
 
