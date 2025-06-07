@@ -25,7 +25,7 @@ _All rooms are 2-person (breakfast in included) at Costa da Caparica_
 #### Total Package Costs
 
 | Package                     | Price |
-| ---------------------------:| -----:|
+| ----------------------------| ------|
 | Registration only           | € 400 |
 | Registration + shared room  | € 670 |
 
