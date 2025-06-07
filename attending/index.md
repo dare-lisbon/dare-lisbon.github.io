@@ -43,6 +43,7 @@ _All rooms are 2-person (breakfast in included) at Costa da Caparica_
 </tbody>
 </table>
 
+
 <blockquote>
   <p><strong>Registration is free for Erasmus+ students</strong><br>
   <em>They pay only € 270 if they choose shared accommodation</em></p>
