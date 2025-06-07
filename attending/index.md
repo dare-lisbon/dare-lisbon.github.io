@@ -23,23 +23,24 @@ _All rooms are 2-person (breakfast in included) at Costa da Caparica_
 - **Shared room (same gender): € 270 per person**
 
 #### Total Package Costs
-<table>
-  <thead>
-    <tr>
-      <th>Package</th>
-      <th style="text-align:right">Price</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Registration only</td>
-      <td style="text-align:right">€ 400</td>
-    </tr>
-    <tr>
-      <td>Registration + shared room</td>
-      <td style="text-align:right">€ 670</td>
-    </tr>
-  </tbody>
+
+<table border="1" cellspacing="2" cellpadding="2">
+<thead>
+<tr>
+<th>Package</th>
+<th>Price</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Registration only</td>
+<td>&euro; 400&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td>Registration + shared room&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+<td>&euro; 670&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+</tr>
+</tbody>
 </table>
 
 <blockquote>
