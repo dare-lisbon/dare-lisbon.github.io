@@ -22,6 +22,10 @@ Protocol RDTs extend the concept of replicated data types by treating programsâ€
 
 State-of-the-art analytical processing relies on advanced query optimisation and parallelism across processors and clusters. Meanwhile, geo-distributed and local-first systems achieve high availability by encapsulating eventual consistency in replicated data types. However, these approaches are difficult to combine, limiting analytical performance on highly available data. This talk offers a hands-on introduction to analytical processing and Conflict-free Replicated Data Views as a solution for enabling high-performance analytics under high availability.
 
-**Alexey Gotsman - TBD**
+**Alexey Gotsman - Database Isolation Levels**
+
+Transaction isolation specifications determine which database states transactions can observe during their execution, and thus, which results queries are allowed to return. This isolation corresponds to the letter "I" in the famous ACID acronym. Different "ACID" systems actually provide a spectrum of isolation levels, which expose the concurrency inside the database to the application programmer to a lesser or greater extent. Examples of such levels are serializability, snapshot isolation, and read committed.
+
+Historically, the definitions of isolation levels have often been ambiguous or tied to database implementation internals. As a result, transaction isolation remains a difficult topic even for seasoned database professionals. This is a problem because understanding the isolation level provided by a given database is necessary to use it correctly. In this tutorial, I will explain the concept of transaction isolation and highlight pitfalls to be wary of when navigating the spectrum of isolation levels while also explaining some of the levels provided by modern database systems.
 
 **Guido Salvanechi - TBD**
