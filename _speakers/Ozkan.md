@@ -1,7 +1,7 @@
 ---
 name: Burcu Kulahcioglu Ozkan
 first_name: Burcu
-last_name: Kulahcioglu Ozkan 
+last_name: Ozkan 
 title: Prof.
 affiliation: Delft University of Technology 
 country: The Nederlands
