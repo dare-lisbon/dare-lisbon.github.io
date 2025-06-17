@@ -28,4 +28,8 @@ Transaction isolation specifications determine which database states transaction
 
 Historically, the definitions of isolation levels have often been ambiguous or tied to database implementation internals. As a result, transaction isolation remains a difficult topic even for seasoned database professionals. This is a problem because understanding the isolation level provided by a given database is necessary to use it correctly. In this tutorial, I will explain the concept of transaction isolation and highlight pitfalls to be wary of when navigating the spectrum of isolation levels while also explaining some of the levels provided by modern database systems.
 
+**Burcu Kulahcioglu Ozkan - Testing Distributed System Implementations**
+
+Distributed systems are difficult to design, implement, and test. They must ensure correctness in the concurrent execution of a distributed set of processes, different delivery orderings of asynchronous messages, and in the existence of network and process failures. Unforeseen interleavings of concurrent events and faults can result in expected malfunctioning or outages, and it is important to detect and diagnose them. In this tutorial, we will discuss concurrency and fault-tolerance bugs in distributed systems and introduce state-of-the-art testing techniques for efficiently detecting concurrency and fault-tolerance bugs in distributed system implementations.
+
 **Guido Salvanechi - TBD**
