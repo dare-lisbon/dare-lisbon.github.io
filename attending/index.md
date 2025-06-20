@@ -19,7 +19,7 @@ Accepted participants eligible for an Erasmus+ grant will need to then register 
 
 #### Accommodation  
 
-_All rooms are 2-person (breakfast in included) at Costa da Caparica_  
+All rooms are 2-person (breakfast in included) at [WOT Costa da Caparica](https://www.wotels.com/costa-da-caparica/wot-costa-da-caparica/)
 - **Shared room (same gender): € 270 per person**
 
 #### Total Package Costs
