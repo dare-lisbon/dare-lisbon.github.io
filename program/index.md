@@ -32,4 +32,7 @@ Historically, the definitions of isolation levels have often been ambiguous or t
 
 Distributed systems are difficult to design, implement, and test. They must ensure correctness in the concurrent execution of a distributed set of processes, different delivery orderings of asynchronous messages, and in the existence of network and process failures. Unforeseen interleavings of concurrent events and faults can result in expected malfunctioning or outages, and it is important to detect and diagnose them. In this tutorial, we will discuss concurrency and fault-tolerance bugs in distributed systems and introduce state-of-the-art testing techniques for efficiently detecting concurrency and fault-tolerance bugs in distributed system implementations.
 
-**Guido Salvanechi - TBD**
+**Guido Salvanechi - Taming the Distributed Systems Beast with Programming Languages**
+
+Distributed systems are notoriously hard to design, implement, and deploy. In this talk, we argue that programming languages are a fundamental tool to tackle the complexity of distributed systems.
+We first discuss concrete examples of how abstractions offered by programming languages have been fundamental in solving problems in distributed systems. Then we discuss recent research results in this area, such as abstractions for data consistency and behavioral types for distributed applications. Finally, we outline promising research directions.
